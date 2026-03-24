@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="raflms.studentstub.restclient.RestClientTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-03-24T08:17:42" hostname="Lukas-MacBook-Pro.local" time="0.097">
+  <properties/>
+  <testcase name="testGetAllTests()" classname="raflms.studentstub.restclient.RestClientTest" time="0.042"/>
+  <testcase name="testGetAssignments()" classname="raflms.studentstub.restclient.RestClientTest" time="0.054"/>
+  <system-out><![CDATA[mojsupertest
+testoop
+AssignmentResponse{assignmentId=1, groupLabel='grupa1', term='termin1', testName='testoop', testId=2, subjectShortName='OOP', gitRepoPath='/home/user/raflms/projectsrootdir/OOP/testoop/grupa1/termin1/kol1.zip'}
+AssignmentResponse{assignmentId=2, groupLabel='grupa4', term='termin1', testName='testoop', testId=2, subjectShortName='OOP', gitRepoPath='/home/user/raflms/projectsrootdir/OOP/testoop/grupa4/termin1/kol1.zip'}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

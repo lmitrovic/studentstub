@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="raflms.studentstub.restclient.AssigmentRestClientTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-03-24T08:17:42" hostname="Lukas-MacBook-Pro.local" time="0.044">
+  <properties/>
+  <testcase name="startAssignment()" classname="raflms.studentstub.restclient.AssigmentRestClientTest" time="0.044"/>
+  <system-out><![CDATA[null
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
