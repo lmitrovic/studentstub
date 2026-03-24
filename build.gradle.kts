@@ -3,8 +3,8 @@ plugins {
     id("maven-publish")
 }
 
-group = "raf.rs"
-version = "1.0-SNAPSHOT"
+group = "com.github.lmitrovic"
+version = "1.0.0"
 
 java {
     toolchain {
